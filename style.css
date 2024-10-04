@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+td{
+    text-align: center;
+    width: 30px;
+    height: 30px;
+}
+.red{
+    background-color: blue;
+    border-radius: 2px;
+}
+.tr{
+    background-color: aquamarine;
+    border-radius: 2px;
+}
+body{
+    font-size: 34px;
+    color: white;
+}
